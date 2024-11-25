@@ -1,7 +1,7 @@
 import moment from "moment";
 
 
-export default class PassengerflightController {
+export default class PassengerFlightController {
 
     constructor(MessageManager, AuthService, PassengerFlightResourceService, $routeParams, $location, vcRecaptchaService) {
         let clubKey = $routeParams["club"];

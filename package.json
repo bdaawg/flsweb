@@ -68,8 +68,10 @@
     "jquery": "^2.2.0",
     "lodash": "3.10.1",
     "moment": "^2.22.0",
+    "natives": "^1.1.6",
     "ng-table": "^3.0.1",
     "ngstorage": "0.3.9",
+    "phantomjs-prebuilt": "^2.1.16",
     "pikaday": "^1.4.0",
     "pikaday-angular": "^2.0.0",
     "selectize": "^0.12.1"
